@@ -2,5 +2,5 @@
 <item>
   <version>2.3.0.0</version>
   <url>https://itnuwave.github.io/autoupdate/NuwaveDev.zip</url>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
